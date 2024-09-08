@@ -1,0 +1,44 @@
+{
+  "id": "4654588",
+  "name": "vue-web-chat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1244194",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "6282756",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "14151872",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "5387735",
+      "name": "眼睛_隐藏",
+      "font_class": "see-not",
+      "unicode": "eb45",
+      "unicode_decimal": 60229
+    },
+    {
+      "icon_id": "5387736",
+      "name": "眼睛_显示",
+      "font_class": "see",
+      "unicode": "eb46",
+      "unicode_decimal": 60230
+    }
+  ]
+}
